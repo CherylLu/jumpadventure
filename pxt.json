@@ -1,5 +1,6 @@
 {
     "name": "彈跳冒險-S #2",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "device": "*"
